@@ -1,11 +1,11 @@
 {
-  "Plugin-Class": "org.example.ExamplePlugin",
+  "Plugin-Class": "lol.tilley.PluginMainClass",
   "Name": "${project.plugin_name}",
   "Version": "${project.plugin_version}",
-  "Description": "Example rusherhack plugin",
-  "URL": "https://github.com/RusherDevelopment/example-plugin",
+  "Description": "Tilley's template for a rusherhack plugin",
+  "URL": "https://github.com/tillay-rh-plugins/",
   "Authors": [
-    "John200410"
+    "tilley"
   ],
   "Minecraft-Versions": [
     "${project.minecraft_version}"
