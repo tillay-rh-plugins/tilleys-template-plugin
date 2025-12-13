@@ -1,5 +1,5 @@
-# test
+# NAME_HERE
 
-### cool plugin
+### DESCRIPTION_HERE
 
 ---

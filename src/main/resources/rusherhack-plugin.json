@@ -1,8 +1,8 @@
 {
-  "Plugin-Class": "lol.tilley.test.PluginMain",
+  "Plugin-Class": "lol.tilley.PluginMain",
   "Name": "${project.plugin_name}",
   "Version": "${project.plugin_version}",
-  "Description": "cool plugin",
+  "Description": "DESCRIPTION_HERE",
   "URL": "https://github.com/tillay-rh-plugins/URL_HERE",
   "Authors": [
     "tilley"
