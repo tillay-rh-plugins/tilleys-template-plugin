@@ -2,7 +2,7 @@ import os, shutil
 
 if not os.getcwd().split("/")[-1] == "tilleys-template-plugin": exit("bad directory")
 
-shutil.rmtree()
+shutil.rmtree(".git")
 
 plugin_name = input("Plugin name: ")
 description = input("Description: ")
