@@ -20,7 +20,7 @@ def replace_in_file(path, old, new):
 
 
 plugin_json_path = os.path.join(os.getcwd(), "src", "main", "resources", "rusherhack-plugin.json")
-replace_in_file(plugin_json_path, "URL_HERE", plugin_name.replace(" ", "-")
+replace_in_file(plugin_json_path, "URL_HERE", plugin_name.replace(" ", "-"))
 replace_in_file(plugin_json_path, "PACKAGE_HERE", package_name)
 replace_in_file(plugin_json_path, "DESCRIPTION_HERE", description)
 
