@@ -1,5 +1,5 @@
 {
-  "Plugin-Class": "lol.tilley.PluginMain",
+  "Plugin-Class": "lol.tilley.PACKAGE_HERE.PluginMain",
   "Name": "${project.plugin_name}",
   "Version": "${project.plugin_version}",
   "Description": "DESCRIPTION_HERE",

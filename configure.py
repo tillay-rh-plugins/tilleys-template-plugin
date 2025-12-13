@@ -2,6 +2,8 @@ import os
 
 if not os.getcwd().split("/")[-1] == "tilleys-template-plugin": exit("bad directory")
 
+os.remove(".git")
+
 plugin_name = input("Plugin name: ")
 description = input("Description: ")
 package_name = input("Package name: ")
