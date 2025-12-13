@@ -1,9 +1,9 @@
 {
-  "Plugin-Class": "lol.tilley.PluginMainClass",
+  "Plugin-Class": "lol.tilley.test.PluginMain",
   "Name": "${project.plugin_name}",
   "Version": "${project.plugin_version}",
-  "Description": "Tilley's template for a rusherhack plugin",
-  "URL": "https://github.com/tillay-rh-plugins/",
+  "Description": "cool plugin",
+  "URL": "https://github.com/tillay-rh-plugins/URL_HERE",
   "Authors": [
     "tilley"
   ],
