@@ -8,9 +8,9 @@ plugin_name = input("Plugin name: ")
 description = input("Description: ")
 package_name = input("Package name: ")
 
-module = input("Module: ")
-hud_element = input("HUD element: ")
-command = input("Command: ")
+module = input("Module: ").capitalize()
+hud_element = input("HUD element: ").capitalize()
+command = input("Command: ").capitalize()
 
 def replace_in_file(path, old, new):
     with open(path, "r", encoding="utf-8") as file:
