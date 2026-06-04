@@ -1,9 +1,9 @@
 {
-  "Plugin-Class": "lol.tilley.PACKAGE_HERE.PluginMain",
+  "Plugin-Class": "lol.tilley.pathfinder.PluginMain",
   "Name": "${project.plugin_name}",
   "Version": "${project.plugin_version}",
-  "Description": "DESCRIPTION_HERE",
-  "URL": "https://github.com/tillay-rh-plugins/URL_HERE",
+  "Description": "pathfind an optimal path through rusherhack's highway system",
+  "URL": "https://github.com/tillay-rh-plugins/rusherhack-pathfinder",
   "Authors": [
     "tilley"
   ],

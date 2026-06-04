@@ -1,5 +1,5 @@
-# NAME_HERE
+# rusherhack pathfinder
 
-### DESCRIPTION_HERE
+### pathfind an optimal path through rusherhack's highway system
 
 ---
